@@ -1,0 +1,7 @@
+{
+	"version": "1.0.0",
+	"name": "거북이",
+	"type": "scratch3",
+	"extensions": ["turtle"],
+	"image": "turtle-image.png"
+}
